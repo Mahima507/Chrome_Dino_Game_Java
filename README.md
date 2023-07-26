@@ -3,6 +3,8 @@
 
 # Description:
 This Java version of Chrome's Offline T-Rex Game replicates the popular side-scrolling dinosaur game available in Chrome when the internet connection is lost. The game boasts several features to ensure an enjoyable gaming experience. Currently, some non-gameplay affecting features are missing, but they will be implemented in the future. The game runs smoothly at 100 frames per second, offering a seamless and immersive gaming experience.
+
+
 ![logo](https://cdn-images-1.medium.com/v2/resize:fit:688/1*82D2cg8Gpe9CVISaph6RPg.gif)
 
 # Features:
